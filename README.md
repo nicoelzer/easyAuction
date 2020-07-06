@@ -3,9 +3,6 @@
 EasyAuction is a very simple DeFi building lego brick to run auctions for fair initial offerings and token buy back programs.
 The EasyAuction platform is very simple and allows anyone to permissionlessly schedule batch auction without any charge of fees.
 
-## Background
-
-This project is non-profit project. The author has not deployed the code to mainnet, but it will likely be done by an unknown anonyms entity. The author does not give any guarantees about the project or is liable in any way.
 
 ## Use cases
 
